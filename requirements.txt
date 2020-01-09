@@ -1,1 +1,3 @@
-
+Kali Linux/ Any other debian based OS
+Nmap
+Firebase
